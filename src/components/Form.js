@@ -42,7 +42,7 @@ export default function Form() {
                   <option value="Team Lead">Team Lead</option>
                   <option value="Full Stack Developer">Full Stack Developer</option>
                   <option value="Front-End Developer">Front-End Developer</option>
-                  <option value="Front-End Developer">Software Engineer</option>
+                  <option value="Software Engineer">Software Engineer</option>
                 </select>
               </label>
               <br />
