@@ -51,6 +51,11 @@ export default function Form() {
                 <input type="file" name="myfile" placeholder="Upload file" />
               </div>
 
+              {/* spam filtering */}
+              <p class="field">
+                <div data-netlify-recaptcha="true"></div>
+              </p>
+
       <p>
         <label htmlFor="message">
         <textarea id="message" name="message" required></textarea>
